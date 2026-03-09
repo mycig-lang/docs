@@ -1,1 +1,2 @@
-# docs
+# what is Mycig?
+
